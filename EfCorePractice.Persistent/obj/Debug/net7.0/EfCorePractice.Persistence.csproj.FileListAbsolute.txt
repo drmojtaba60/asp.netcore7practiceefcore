@@ -1,0 +1,12 @@
+C:\Users\shaghi\Projects\GitHupProjects\database\efcore-practice\EfCorePractice.Persistent\bin\Debug\net7.0\EfCorePractice.Persistence.deps.json
+C:\Users\shaghi\Projects\GitHupProjects\database\efcore-practice\EfCorePractice.Persistent\bin\Debug\net7.0\EfCorePractice.Persistence.dll
+C:\Users\shaghi\Projects\GitHupProjects\database\efcore-practice\EfCorePractice.Persistent\bin\Debug\net7.0\EfCorePractice.Persistence.pdb
+C:\Users\shaghi\Projects\GitHupProjects\database\efcore-practice\EfCorePractice.Persistent\obj\Debug\net7.0\EfCorePractice.Persistence.csproj.AssemblyReference.cache
+C:\Users\shaghi\Projects\GitHupProjects\database\efcore-practice\EfCorePractice.Persistent\obj\Debug\net7.0\EfCorePractice.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaghi\Projects\GitHupProjects\database\efcore-practice\EfCorePractice.Persistent\obj\Debug\net7.0\EfCorePractice.Persistence.AssemblyInfoInputs.cache
+C:\Users\shaghi\Projects\GitHupProjects\database\efcore-practice\EfCorePractice.Persistent\obj\Debug\net7.0\EfCorePractice.Persistence.AssemblyInfo.cs
+C:\Users\shaghi\Projects\GitHupProjects\database\efcore-practice\EfCorePractice.Persistent\obj\Debug\net7.0\EfCorePractice.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\shaghi\Projects\GitHupProjects\database\efcore-practice\EfCorePractice.Persistent\obj\Debug\net7.0\EfCorePractice.Persistence.dll
+C:\Users\shaghi\Projects\GitHupProjects\database\efcore-practice\EfCorePractice.Persistent\obj\Debug\net7.0\refint\EfCorePractice.Persistence.dll
+C:\Users\shaghi\Projects\GitHupProjects\database\efcore-practice\EfCorePractice.Persistent\obj\Debug\net7.0\EfCorePractice.Persistence.pdb
+C:\Users\shaghi\Projects\GitHupProjects\database\efcore-practice\EfCorePractice.Persistent\obj\Debug\net7.0\ref\EfCorePractice.Persistence.dll
