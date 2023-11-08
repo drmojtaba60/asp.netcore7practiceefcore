@@ -16,4 +16,11 @@
         public ICollection<Student> Students { get; set; }
 
     }
+
+    public record ClassRoomAsTestNoMapped
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+
+    }
 }

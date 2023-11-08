@@ -32,7 +32,7 @@ namespace EfCorePractice.Persistence
         private void setDbSetes(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity(typeof(Student));
-            modelBuilder.Entity(typeof(ClassRoom));
+            //modelBuilder.Entity(typeof(ClassRoom));
             modelBuilder.Entity(typeof(Course));
             modelBuilder.Entity(typeof(StudentCourse));
         }

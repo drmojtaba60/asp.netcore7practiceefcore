@@ -1,4 +1,5 @@
 using EfCorePractice.Persistence;
+using EfCorePractice.Persistence.Models;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
 
@@ -38,6 +39,14 @@ app.MapGet("api/students", async (PracticeDbContext dbContext) =>
 {
     return Results.Ok(dbContext.Students.AsNoTracking().ToList());
 });
+
+app.MapGet("api/class-rooms", async (PracticeDbContext dbContext) =>Results.Ok(dbContext.Set<ClassRoom>().AsNoTracking().ToList()));
+
+// error 500 Cannot create a DbSet for 'ClassRoomAsTestNoMapped' because this type is not included in the model for the context.
+//for slove problem add Property DbSet :DbSet<ClassRoomAsTestNoMapped> or Apply Configuration on class ClassRoomAsTestNot Mapped
+app.MapGet("api/class-rooms/entity-nomapped-tested", async (PracticeDbContext dbContext) => Results.Ok(dbContext.Set<ClassRoomAsTestNoMapped>().AsNoTracking().ToList()));
+
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
