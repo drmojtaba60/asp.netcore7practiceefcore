@@ -232,3 +232,6 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+*.json
+*.csproj
+/EfCorePractice.Persistent/bin/Debug/net7.0/EfCorePractice.Persistence.deps.json
